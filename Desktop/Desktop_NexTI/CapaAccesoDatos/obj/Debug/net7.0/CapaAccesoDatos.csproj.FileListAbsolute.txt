@@ -1,0 +1,12 @@
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\bin\Debug\net7.0\CapaAccesoDatos.deps.json
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\bin\Debug\net7.0\CapaAccesoDatos.dll
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\bin\Debug\net7.0\CapaAccesoDatos.pdb
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\obj\Debug\net7.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\obj\Debug\net7.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\obj\Debug\net7.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\obj\Debug\net7.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\obj\Debug\net7.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\obj\Debug\net7.0\CapaAccesoDatos.dll
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\obj\Debug\net7.0\refint\CapaAccesoDatos.dll
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\obj\Debug\net7.0\CapaAccesoDatos.pdb
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaAccesoDatos\obj\Debug\net7.0\ref\CapaAccesoDatos.dll

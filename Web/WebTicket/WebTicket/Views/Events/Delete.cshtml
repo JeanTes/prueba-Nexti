@@ -1,0 +1,10 @@
+﻿@model WebTicket.Models.EventViewModel
+
+<h2>Estas seguro que quieres elimnar el evento?</h2>
+<h3>@Model.FechaEvento at @Model.Lugar</h3>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a asp-action="Index">Cancel</a>
+</form>

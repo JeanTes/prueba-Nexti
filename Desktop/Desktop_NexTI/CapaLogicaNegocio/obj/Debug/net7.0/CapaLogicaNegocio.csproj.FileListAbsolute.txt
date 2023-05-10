@@ -1,0 +1,15 @@
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\bin\Debug\net7.0\CapaLogicaNegocio.deps.json
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\bin\Debug\net7.0\CapaLogicaNegocio.dll
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\bin\Debug\net7.0\CapaLogicaNegocio.pdb
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\bin\Debug\net7.0\CapaAccesoDatos.dll
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\bin\Debug\net7.0\CapaAccesoDatos.pdb
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\CapaLogicaNegocio.dll
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\refint\CapaLogicaNegocio.dll
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\CapaLogicaNegocio.pdb
+C:\Users\Jean\Desktop\MIo\prueba Nexti\Desktop\Desktop_NexTI\CapaLogicaNegocio\obj\Debug\net7.0\ref\CapaLogicaNegocio.dll

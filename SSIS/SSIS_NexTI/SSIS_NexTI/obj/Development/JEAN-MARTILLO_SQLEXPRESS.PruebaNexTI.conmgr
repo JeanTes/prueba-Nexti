@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="JEAN-MARTILLO_SQLEXPRESS.PruebaNexTI"
+  DTS:DTSID="{64661EEC-C3DC-4963-B6C4-E13CAC0D6521}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=JEAN-MARTILLO\SQLEXPRESS;Initial Catalog=PruebaNexTI;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS_NexTI-{64661EEC-C3DC-4963-B6C4-E13CAC0D6521}JEAN-MARTILLO\SQLEXPRESS.PruebaNexTI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

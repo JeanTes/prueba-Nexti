@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WebTicket.Models.EventViewModel>
+
+@{
+    ViewData["Title"] = "Events";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Event</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Dia de Evento</th>
+            <th>Lugar</th>
+            <th>N. de Entradas</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FechaEvento.ToString("g")</td>
+                <td>@item.Lugar</td>
+                <td>@item.NEntrada</td>
+                <td>@item.Descripcion</td>
+                <td>@item.Precio.ToString("C")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    @*<a asp-action="Details" asp-route-id="@item.Id">Details</a> |*@
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
